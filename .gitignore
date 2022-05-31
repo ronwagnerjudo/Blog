@@ -171,3 +171,5 @@ cython_debug/
 
 **poetry.lock
 **DS_Store
+
+blog.db
